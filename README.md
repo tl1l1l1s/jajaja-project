@@ -8,6 +8,11 @@
 - 업종별 카테고리를 통한 맞춤형 상품 큐레이션을 제공합니다.
 
 
+### 시연 영상
+
+[![Video Label](https://img.youtube.com/vi/ukpRkSNWhbs/0.jpg)](https://youtu.be/ukpRkSNWhbs)
+
+
 ## 기술 스택
 
 ### Backend
